@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Welcome to My Jekyll Site
+title: Welcome to Mario Castro's page
 ---
 
-# Hello World!
-This is my GitHub Pages Jekyll site.
+# Welcome!
+This is my GitHub Pages Using Jekyll site for ADOO.
